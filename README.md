@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0rnot/0rnot/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/0rnot/0rnot/main/github-metrics.svg?v=1" alt="Metrics" width="100%">
 </div>
 
 ---
