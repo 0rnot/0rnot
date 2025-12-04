@@ -1,6 +1,5 @@
 name: Metrics
 on:
-  # 毎日 0:00 (JST) に更新
   schedule: [{cron: "0 15 * * *"}]
   workflow_dispatch:
 jobs:
@@ -15,26 +14,35 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Tokyo
 
-          # --- 基本レイアウト設定 ---
-          # 'classic' + 'large' で左右2カラムのレイアウトを作ります
+          # --- レイアウト設定 ---
           template: classic
           config_display: large
           
-          # 基本データ（左上のアイコン、年数、コミット数など）
-          base: header, activity, community, repositories, metadata
-          
+          # 【重要】右側の「文字リスト」の原因である activity, community を削除！
+          # header(アイコン等) と metadata だけ残します。
+          base: header, metadata
+
           # --- 左側：About Me ---
-          # 自己紹介文を表示
           plugin_introduction: yes
           plugin_introduction_title: yes
 
-          # --- 右側：Activity Pentagon（五角形のグラフ） ---
-          # これが「レーダーチャート」を出すための核心プラグインです
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          # --- 右側：グラフエリア ---
           
-          # --- 下側：Languages ---
-          # 言語バーを表示
+          # 1. 五角形グラフ（一応入れておくが、データ不足なら消える）
+          plugin_followup: yes
+          
+          # 2. 【本命】3Dコミットグラフ (IsoCalendar)
+          # あなたの91件のコミットが「山」として表示されます
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # 3. 習慣グラフ (Habits)
+          # 「何時に活動しているか」の折れ線グラフが出ます
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          
+          # --- 下側：言語バー ---
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
