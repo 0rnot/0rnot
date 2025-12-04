@@ -15,10 +15,6 @@
   <img src="https://raw.githubusercontent.com/0rnot/0rnot/main/github-metrics.svg?v=1" alt="Metrics" width="100%">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rnot&layout=compact&theme=vision-friendly-dark" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=0rnot&show_icons=true&theme=vision-friendly-dark&rank_icon=github" />
-
 ---
 
 ### 🛠️ System Architecture
