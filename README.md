@@ -22,4 +22,4 @@ I engage in programming and hardware tinkering to optimize my daily life and sat
 * Aiming for a low-maintenance, high-efficiency life.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0rnot&show_icons=true&theme=dark&hide_border=true)
