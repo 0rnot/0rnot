@@ -41,7 +41,7 @@
 | :--- | :---: | :--- |
 | **🧠 Digital Cloning** | `Running` | Archiving personality & voice via local LLMs (H200). |
 | **⚡ System Automation** | `Stable` | Eliminating repetitive tasks with Python & SwitchBot. |
-| **💰 Asset Management** | `Growth` | $r > g$. Maximizing S&P500 / NASDAQ100. |
+| **💰 Asset Management** | `Growth` | $r > g$. Maximizing S&P500. |
 | **⛺ Survival** | `Season` | Spearfishing, Camping, & Bear tasting. |
 
 ---
