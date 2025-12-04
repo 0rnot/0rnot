@@ -3,7 +3,6 @@ on:
   # 毎日 0:00 (JST) に更新
   schedule: [{cron: "0 15 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,23 +11,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # あなたのユーザー名
           user: 0rnot
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tokyo
-          
-          # 鍵の設定
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 【重要】ここがレーダーチャートの設定
-          # Code Review, Issues, PRs, Commits のバランスを表示
-          plugin_isocalendar: no # カレンダーはSnakeとかぶるのでOFF
+          # 【ここが魔法の1行】
+          # これを入れると、文字リストが「レーダーチャート」に進化します
+          config_display: large
+
+          # 画像左側の「Contributed to...」を出す設定
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # 右側の詳細データ
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css
           plugin_languages_details: bytes-size, percentage
-          
-          # "Activity Overview" のような詳細グラフ
-          plugin_followup: yes
-          plugin_followup_sections: repositories
