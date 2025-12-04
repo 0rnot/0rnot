@@ -4,7 +4,7 @@
 
 <!-- Typing Effect: 英語と日本語をミックスして、思考の切り替えを表現 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;論理と技術で人生を最適化する;Existence+precedes+essence.;実存は本質に先立つ;0rnot%3F+%22All+or+Nothing%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;2b or not 2b;Existence+precedes+essence.;実存は本質に先立つ;0rnot%3F+%22All+or+Nothing%22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,8 +30,8 @@
 <div align="center">
 
 <!-- Stats & Langs: 並列表示でダッシュボード感を演出 -->
-<img src="https://github-readme-stats.vercel.app/api?username=0rnot&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" height="150" alt="0rnot's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rnot&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF" height="150" alt="Top Langs" />
+> **System Status:** `Online`
+> **Current Focus:** `Building Digital Clone...`
 
 </div>
 
@@ -41,9 +41,9 @@
 
 | **Category** | **Status** | **Description (JP/EN)** |
 | :--- | :---: | :--- |
-| **🧠 Digital Cloning** | `Running` | **電脳降霊** / Archiving personality via local LLMs (H200). |
+| **🧠 Digital Cloning** | `Running` | **電脳化** / Archiving personality via local LLMs (H200). |
 | **⚡ System Automation** | `Stable` | **自動化** / Eliminating repetitive tasks via Python. |
-| **💰 Asset Management** | `Growth` | **資本主義** / $r > g$. Maximizing S&P500. |
+| **💰 Asset Management** | `Growth` | **資本** / $r > g$. Maximizing S&P500. |
 | **⛺ Survival** | `Season` | **回帰** / Spearfishing, Camping & Eating Bears. |
 
 ---
