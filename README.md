@@ -30,7 +30,6 @@
 <div align="center">
 
 <!-- Stats & Langs: 並列表示でダッシュボード感を演出 -->
-> **System Status:** `Online`
 > **Current Focus:** `Building Digital Clone...`
 
 </div>
