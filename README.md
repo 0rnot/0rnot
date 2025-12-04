@@ -11,6 +11,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/0rnot/0rnot/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
+
+---
+
 ### 🛠️ System Architecture
 
 <div align="center">
