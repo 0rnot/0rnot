@@ -41,10 +41,10 @@
 
 | **Category** | **Status** | **Description (JP/EN)** |
 | :--- | :---: | :--- |
-| **🧠 Digital Cloning** | `Running` | **電脳降霊術** / Archiving personality via local LLMs (H200). |
-| **⚡ System Automation** | `Stable` | **生活の自動化** / Eliminating repetitive tasks via Python. |
-| **💰 Asset Management** | `Growth` | **資本主義ハック** / $r > g$. Maximizing S&P500. |
-| **⛺ Survival** | `Season` | **野生回帰** / Spearfishing, Camping & Eating Bears. |
+| **🧠 Digital Cloning** | `Running` | **電脳降霊** / Archiving personality via local LLMs (H200). |
+| **⚡ System Automation** | `Stable` | **自動化** / Eliminating repetitive tasks via Python. |
+| **💰 Asset Management** | `Growth` | **資本主義** / $r > g$. Maximizing S&P500. |
+| **⛺ Survival** | `Season` | **回帰** / Spearfishing, Camping & Eating Bears. |
 
 ---
 
