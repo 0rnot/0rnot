@@ -4,7 +4,7 @@
 
 <!-- Typing Effect: 英語と日本語をミックスして、思考の切り替えを表現 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;2b_ornot_2b;Zero+or+Not?+'All+or+Nothing'.;実存は本質に先立つ;0rnot%3F+%22All+or+Nothing%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;2b_ornot_2b;ﾈｺと和解せよ;実存は本質に先立つ;Zero+or+Not%3F+%22All+or+Nothing%22" alt="Typing SVG" />
 </a>
 
 </div>
