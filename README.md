@@ -2,8 +2,9 @@
 
 # 0rnot (2b)
 
+<!-- Typing Effect: 英語と日本語をミックスして、思考の切り替えを表現 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;I+optimize+my+life+via+Logic+%26+Tech.;Existence+precedes+essence.;0rnot%3F+%22All+or+Nothing%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;論理と技術で人生を最適化する;Existence+precedes+essence.;実存は本質に先立つ;0rnot%3F+%22All+or+Nothing%22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,6 +15,7 @@
 
 <div align="center">
 
+<!-- Tech Stack: リンクをプロフィールに戻す処理済み -->
 <a href="#0rnot"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="#0rnot"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
 <a href="#0rnot"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
@@ -27,9 +29,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0rnot&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="0rnot's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rnot&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF" alt="Top Langs" />
+<!-- Stats & Langs: 並列表示でダッシュボード感を演出 -->
+<img src="https://github-readme-stats.vercel.app/api?username=0rnot&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" height="150" alt="0rnot's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rnot&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=20C20E&text_color=FFFFFF" height="150" alt="Top Langs" />
 
 </div>
 
@@ -37,12 +39,12 @@
 
 ### 🧬 Active Protocols (Interests)
 
-| **Category** | **Status** | **Description** |
+| **Category** | **Status** | **Description (JP/EN)** |
 | :--- | :---: | :--- |
-| **🧠 Digital Cloning** | `Running` | Archiving personality & voice via local LLMs (H200). |
-| **⚡ System Automation** | `Stable` | Eliminating repetitive tasks with Python & SwitchBot. |
-| **💰 Asset Management** | `Growth` | $r > g$. Maximizing S&P500. |
-| **⛺ Survival** | `Season` | Spearfishing, Camping. |
+| **🧠 Digital Cloning** | `Running` | **電脳降霊術** / Archiving personality via local LLMs (H200). |
+| **⚡ System Automation** | `Stable` | **生活の自動化** / Eliminating repetitive tasks via Python. |
+| **💰 Asset Management** | `Growth` | **資本主義ハック** / $r > g$. Maximizing S&P500. |
+| **⛺ Survival** | `Season` | **野生回帰** / Spearfishing, Camping & Eating Bears. |
 
 ---
 
@@ -52,5 +54,11 @@
 > *Living in the gap between the digital world and physical reality.*
 
 <div align="center">
+  <br>
+  <!-- Snake Animation: 草を食べる蛇のアニメーション (要GitHub Actions設定) -->
+  <!-- 設定するまでは静止画ですが、将来的に動かせます -->
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=0rnot&style=flat-square&color=green" alt="Profile Views"/>
 </div>
