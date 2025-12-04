@@ -13,15 +13,28 @@ jobs:
         with:
           user: 0rnot
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # 💻 ハッカー仕様のターミナル・テンプレート
-          template: terminal
-          
-          # 表示する項目（全部盛り）
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
+
+          # --- 基本レイアウト設定 ---
+          # 'classic' + 'large' で左右2カラムのレイアウトを作ります
+          template: classic
+          config_display: large
           
-          # 拡張プラグイン
+          # 基本データ（左上のアイコン、年数、コミット数など）
+          base: header, activity, community, repositories, metadata
+          
+          # --- 左側：About Me ---
+          # 自己紹介文を表示
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # --- 右側：Activity Pentagon（五角形のグラフ） ---
+          # これが「レーダーチャート」を出すための核心プラグインです
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          
+          # --- 下側：Languages ---
+          # 言語バーを表示
           plugin_languages: yes
-          plugin_languages_details: lines, percentage
-          plugin_lines: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
