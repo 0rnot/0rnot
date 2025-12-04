@@ -12,18 +12,16 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: 0rnot
-          template: classic
-          base: header, activity, community, repositories, metadata
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 【ここが魔法の1行】
-          # これを入れると、文字リストが「レーダーチャート」に進化します
-          config_display: large
-
-          # 画像左側の「Contributed to...」を出す設定
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-
-          # 右側の詳細データ
+          # 💻 ハッカー仕様のターミナル・テンプレート
+          template: terminal
+          
+          # 表示する項目（全部盛り）
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tokyo
+          
+          # 拡張プラグイン
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: lines, percentage
+          plugin_lines: yes
