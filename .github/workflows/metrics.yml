@@ -16,17 +16,21 @@ jobs:
           filename: metrics.svg
           debug: yes
           
-          # 縦表示 (標準レイアウト)
+          # ■ レイアウト設定
           template: classic
           config_timezone: Asia/Tokyo
 
-          # 基本情報 (Base)
-          base: header, repositories
+          # ■ 基本情報 (Base)
+          # "repositories" を削除し、"10 Repositories" や容量などのブロックを消しました
+          base: header
+
+          # ■ 自己紹介 (Introduction)
+          # "About Me" を削除
+          plugin_introduction: no
 
           # ■ 共同開発者・関係者 (People)
-          # フォロワー(followers)を削除し、フォロー中(following)のみ残しました
           plugin_people: yes
-          plugin_people_types: following
+          plugin_people_types: followers, following
           plugin_people_limit: 24
           plugin_people_size: 28
 
@@ -34,10 +38,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://github.com/0rnot
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-
-          # ■ 自己紹介 (Introduction)
-          plugin_introduction: yes
-          plugin_introduction_title: yes
 
           # ■ カレンダー (Calendar)
           plugin_calendar: yes
