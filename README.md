@@ -45,10 +45,10 @@
 
 ### 🧬 Active Protocols (Interests)
 
-| **Category** | **Status** | **Description (JP/EN)** |
+| **Category** | **Status** | **Description** |
 | :--- | :---: | :--- |
-| **🧠 Digital Cloning** | `Running` | **電脳化** / Archiving personality via local LLMs (H200). |
-| **⚡ System Automation** | `Stable` | **自動化** / Eliminating repetitive tasks via Python. |
+| **🧠 Digital Cloning** | `Running` | **電脳** / Archiving personality via local LLMs (H200). |
+| **⚡ System Automation** | `Stable` | **自動** / Eliminating repetitive tasks via Python. |
 | **💰 Asset Management** | `Growth` | **資本** / $r > g$. Maximizing S&P500. |
 | **⛺ Survival** | `Season` | **回帰** / Spearfishing, Camping & Eating Bears. |
 
