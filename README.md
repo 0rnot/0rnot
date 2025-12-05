@@ -31,15 +31,6 @@
 
 </div>
 
-### 📊 Vital Monitor
-
-<div align="center">
-
-<!-- Stats & Langs: 並列表示でダッシュボード感を演出 -->
-> **Current Focus:** `Building Digital Clone...`
-
-</div>
-
 ---
 
 ### 📝 Kernel Log
