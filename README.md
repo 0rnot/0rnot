@@ -42,17 +42,6 @@
 
 ---
 
-### 🧬 Active Protocols (Interests)
-
-| **Category** | **Status** | **Description** |
-| :--- | :---: | :--- |
-| **🧠 Digital Cloning** | `Running` | **電脳** / Archiving personality via local LLMs (H200). |
-| **⚡ System Automation** | `Stable` | **自動** / Eliminating repetitive tasks via Python. |
-| **💰 Asset Management** | `Growth` | **資本** / $r > g$. Maximizing SP500. |
-| **⛺ Survival** | `Season` | **回帰** / Spearfishing, Camping. |
-
----
-
 ### 📝 Kernel Log
 > **"Existence precedes essence."**
 > I hack the system to reclaim my time and freedom.
