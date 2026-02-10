@@ -2,9 +2,9 @@
 
 # 0rnot 
 
-<!-- Typing Effect: 英語と日本語をミックスして、思考の切り替えを表現 -->
+<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;2b_ornot_2b;ﾈｺと和解せよ;実存は本質に先立つ;Zero+or+Not%3F+%22All+or+Nothing%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Public+Servant+%2F+Capitalism+Hacker;2b_ornot_2b;ﾈｺと和解せよ;働いたら負け;Zero+or+Not%3F+%22All+or+Nothing%22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<!-- Tech Stack: リンクをプロフィールに戻す処理済み -->
+<!-- Tech Stack -->
 <a href="#0rnot"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="#0rnot"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
 <a href="#0rnot"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
