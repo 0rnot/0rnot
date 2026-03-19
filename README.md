@@ -33,10 +33,6 @@
 
 ---
 
-### 📝 Kernel Log
-> **"Existence precedes essence."**
-> I hack the system to reclaim my time and freedom.
-> *Living in the gap between the digital world and physical reality.*
 
 <div align="center">
   <br>
