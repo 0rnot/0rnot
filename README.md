@@ -36,8 +36,6 @@
 
 <div align="center">
   <br>
-  <!-- Snake Animation: 草を食べる蛇のアニメーション (要GitHub Actions設定) -->
-  <!-- 設定するまでは静止画ですが、将来的に動かせます -->
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <br>
