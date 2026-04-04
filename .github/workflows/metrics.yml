@@ -36,7 +36,7 @@ jobs:
 
           # ■ ページスピード (PageSpeed)
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://0rnot.com
+          plugin_pagespeed_url: https://github.com
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: no         # 詳細をオフ
           plugin_pagespeed_screenshot: no       # スクリーンショットをオフ（これが重要！）
