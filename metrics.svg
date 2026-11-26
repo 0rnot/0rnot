@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -71,14 +71,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.72719704799256" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="124.72719704799256" y="0" width="97.55106718077265" height="8" fill="#44a51c"/>
-                    <rect mask="url(#languages-bar)" x="222.2782642287652" y="0" width="89.01409551652353" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="311.29235974528876" y="0" width="72.797322779236" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="384.0896825245248" y="0" width="44.27190097598885" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="428.3615835005136" y="0" width="15.739867438468835" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="444.1014509389824" y="0" width="10.107847270119667" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.2092982091021" y="0" width="5.790701790897899" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.72379731619542" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="124.72379731619542" y="0" width="97.55205636767364" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="222.2758536838691" y="0" width="89.01499813686213" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="311.29085182073123" y="0" width="72.79806095832724" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="384.08891277905843" y="0" width="44.272349901723786" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="428.3612626807822" y="0" width="15.740027043803183" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="444.10128972458546" y="0" width="10.107949765667955" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.2092394902534" y="0" width="5.790760509746648" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -673,6 +673,7 @@
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
